@@ -1,0 +1,56 @@
+body{
+    margin: 0%;
+    background-color: #B8CF99;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+.topbar .icon{
+    position: fixed;
+    top: 30px;
+    left: 55em;
+    text-align: center;
+    height:80px;
+    width: 80px;
+}
+
+.topbar .img{
+    height: 600px;
+    width : 400px;
+    position: relative;
+    top:60px;
+
+}
+
+.topbar .cupcake{
+    position: absolute;
+    top: 250px;
+    left: 1200px;
+    height: 400px;
+    width : 500px;
+
+}
+
+.topbar{
+    margin: 0%;
+    background-color: black;
+    height: 700px
+}
+
+h2{
+    color: antiquewhite;
+    position: fixed;
+    top: 170px;
+    left: 820px;
+    font-size: 60px;
+    font-family: cursive;
+}
+
+h4{
+    color: beige;
+    position: fixed;
+    top: 250px;
+    left: 825px;
+    font-size: 40px;
+}
+
